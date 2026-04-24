@@ -17,13 +17,13 @@
 
 ## Screenshot
 ### Tampilan Utama (List Produk)
-[screenshot HP fisik di sini]
+<img width="718" height="1599" alt="image" src="https://github.com/user-attachments/assets/49edc730-e18b-4c6f-91fd-c200f44db18c" />
 
 ### Tampilan Search — saat ada hasil
-[screenshot HP fisik di sini]
+<img width="718" height="1599" alt="image" src="https://github.com/user-attachments/assets/ce761bcd-d273-41df-8ec7-f5c5f58755a0" />
 
 ### Tampilan Empty State — saat tidak ada hasil
-[screenshot HP fisik di sini]
+<img width="720" height="1604" alt="image" src="https://github.com/user-attachments/assets/21a4fc0f-8a7e-4bdc-bb9d-bdf9f053bda8" />
 
 ## Cara Menjalankan
 1. Clone repo  : git clone [url-repo-kamu]
