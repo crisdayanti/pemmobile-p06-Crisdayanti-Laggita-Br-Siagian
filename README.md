@@ -25,7 +25,7 @@
 <img width="720" height="1604" alt="image" src="https://github.com/user-attachments/assets/21a4fc0f-8a7e-4bdc-bb9d-bdf9f053bda8" />
 
 ## Cara Menjalankan
-1. Clone repo  : git clone [[url-repo-kamu](https://github.com/crisdayanti/pemmobile-p06-Crisdayanti-Laggita-Br-Siagian.git)]
+1. Clone repo  : git clone [[url-repo](https://github.com/crisdayanti/pemmobile-p06-Crisdayanti-Laggita-Br-Siagian.git)]
 2. Install deps: npm install
 3. Jalankan    : npx expo start
 4. Scan QR Code dengan Expo Go di HP
